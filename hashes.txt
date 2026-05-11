@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mittha
+
+This log tracks the cryptographic history and versioning for the song **Mittha** (mittha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T07:33:07.111339 | `v1` | `cd69617cc3babb079762c9361bc289da2a3f0e6fdab35a1406e0ab623c060f79` | `6196c5401120655688dc9b45ad71612025a383201e78b18e43d46fad511a7fbf` | `2026-05-11_mittha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
